@@ -15,7 +15,7 @@
 
   // Create image
   const img = document.createElement('img');
-  img.src = 'https://umamusume-mouse-api.vercel.app/public/assets/char.png';
+  img.src = 'https://umamusume-mouse-api.vercel.app/assets/char.png';
   img.style.width = '100%';
   img.style.height = '100%';
   img.style.objectFit = 'contain';
